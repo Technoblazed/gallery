@@ -19,7 +19,7 @@ cache:
       description: Dropfleet Commander
       battleScribeVersion: "2.02"
       version: v2.0.0
-      lastUpdated: 2019-06-26T21:55:04.0000000Z
+      lastUpdated: 2019-06-26T21:55:04.0000000+00:00
       lastUpdateDescription: Resistance
       indexUrl: https://github.com/BSData/dropfleet-commander/releases/latest/download/dropfleet-commander.latest.bsi
       repositoryUrl: https://github.com/BSData/dropfleet-commander/releases/latest/download/dropfleet-commander.catpkg.json

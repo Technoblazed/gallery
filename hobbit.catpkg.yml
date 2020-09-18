@@ -19,7 +19,7 @@ cache:
       description: Hobbit SBG
       battleScribeVersion: 
       version: v1.0.0-beta
-      lastUpdated: 2017-03-05T17:03:22.0000000Z
+      lastUpdated: 2017-03-05T17:03:22.0000000+00:00
       lastUpdateDescription: Game System update
       indexUrl: https://github.com/BSData/hobbit/releases/latest/download/hobbit.latest.bsi
       repositoryUrl: https://github.com/BSData/hobbit/releases/latest/download/hobbit.catpkg.json

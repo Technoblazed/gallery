@@ -19,7 +19,7 @@ cache:
       description: Firestorm Planetfall
       battleScribeVersion: "2.00"
       version: v2
-      lastUpdated: 2017-01-19T00:00:09.0000000Z
+      lastUpdated: 2017-01-19T00:00:09.0000000+00:00
       lastUpdateDescription: Updates for BS 2.0
       indexUrl: https://github.com/BSData/firestorm-planetfall/releases/latest/download/firestorm-planetfall.latest.bsi
       repositoryUrl: https://github.com/BSData/firestorm-planetfall/releases/latest/download/firestorm-planetfall.catpkg.json

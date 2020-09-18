@@ -19,7 +19,7 @@ cache:
       description: Monsterpocalypse
       battleScribeVersion: "2.01"
       version: 1.1.2
-      lastUpdated: 2019-04-13T13:45:47.0000000Z
+      lastUpdated: 2019-04-13T13:45:47.0000000+00:00
       lastUpdateDescription: Update 3
       indexUrl: https://github.com/BSData/monsterpocalypse/releases/latest/download/monsterpocalypse.latest.bsi
       repositoryUrl: https://github.com/BSData/monsterpocalypse/releases/latest/download/monsterpocalypse.catpkg.json

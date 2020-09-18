@@ -19,7 +19,7 @@ cache:
       description: Gates of Antares
       battleScribeVersion: "2.03"
       version: "1.18"
-      lastUpdated: 2019-09-02T09:41:16.0000000Z
+      lastUpdated: 2019-09-02T09:41:16.0000000+00:00
       lastUpdateDescription: More changes
       indexUrl: https://github.com/BSData/gates-of-antares/releases/latest/download/gates-of-antares.latest.bsi
       repositoryUrl: https://github.com/BSData/gates-of-antares/releases/latest/download/gates-of-antares.catpkg.json

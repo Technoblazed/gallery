@@ -19,7 +19,7 @@ cache:
       description: Carnevale
       battleScribeVersion: "2.02"
       version: 1.2.2
-      lastUpdated: 2019-05-03T17:34:22.0000000Z
+      lastUpdated: 2019-05-03T17:34:22.0000000+00:00
       lastUpdateDescription: Rialto Assassin & Hybrid
       indexUrl: https://github.com/BSData/carnevale/releases/latest/download/carnevale.latest.bsi
       repositoryUrl: https://github.com/BSData/carnevale/releases/latest/download/carnevale.catpkg.json

@@ -19,7 +19,7 @@ cache:
       description: Forager
       battleScribeVersion: "2.01"
       version: 1.0.0
-      lastUpdated: 2018-01-19T18:40:32.0000000Z
+      lastUpdated: 2018-01-19T18:40:32.0000000+00:00
       lastUpdateDescription: Fixed to Cat etc
       indexUrl: https://github.com/BSData/forager/releases/latest/download/forager.latest.bsi
       repositoryUrl: https://github.com/BSData/forager/releases/latest/download/forager.catpkg.json

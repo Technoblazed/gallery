@@ -19,7 +19,7 @@ cache:
       description: Dust Tactics
       battleScribeVersion: "1.15"
       version: v2.1.0
-      lastUpdated: 2015-11-08T21:57:55.0000000Z
+      lastUpdated: 2015-11-08T21:57:55.0000000+00:00
       lastUpdateDescription: Anon update to new starter set and many fixes.
       indexUrl: https://github.com/BSData/dusttactics/releases/latest/download/dusttactics.latest.bsi
       repositoryUrl: https://github.com/BSData/dusttactics/releases/latest/download/dusttactics.catpkg.json

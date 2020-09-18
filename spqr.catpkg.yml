@@ -19,7 +19,7 @@ cache:
       description: SPQR
       battleScribeVersion: "2.03"
       version: 1.2.6
-      lastUpdated: 2019-09-18T15:23:36.0000000Z
+      lastUpdated: 2019-09-18T15:23:36.0000000+00:00
       lastUpdateDescription: Bug Fixes
       indexUrl: https://github.com/BSData/spqr/releases/latest/download/spqr.latest.bsi
       repositoryUrl: https://github.com/BSData/spqr/releases/latest/download/spqr.catpkg.json

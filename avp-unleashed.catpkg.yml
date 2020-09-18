@@ -19,7 +19,7 @@ cache:
       description: 'AvP: Unleashed'
       battleScribeVersion: "2.01"
       version: 1.1.2
-      lastUpdated: 2018-08-28T21:31:22.0000000Z
+      lastUpdated: 2018-08-28T21:31:22.0000000+00:00
       lastUpdateDescription: 1.1.2 patch
       indexUrl: https://github.com/BSData/avp-unleashed/releases/latest/download/avp-unleashed.latest.bsi
       repositoryUrl: https://github.com/BSData/avp-unleashed/releases/latest/download/avp-unleashed.catpkg.json
