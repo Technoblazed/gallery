@@ -20,6 +20,7 @@ function Get-BsdataGalleryCatpkg {
   } + $GallerySettings.urls + @{
     repositories = @($entries.cache | ForEach-Object {
         $_.catpkg.properties.archived = $_.repo.archived -eq $true
+        $_.catpkg.properties.lastUpdated = [datetime]::ParseExact($_.catpkg.properties.lastUpdated, 'yyyy-MM-ddTHH:mm:sszzz', $null).ToString("o")
         return $_.catpkg.properties
       })
   }
@@ -67,7 +68,7 @@ function Get-GHApiUpdatedResult {
     [Parameter()]
     [int]$RetryIntervalSec = 5
   )
-  
+
   # get object from API, but only if newer than what we've got already
   try {
     $apiArgs = @{
@@ -263,11 +264,11 @@ function Update-BsdataGalleryIndex {
     # Path to index entries directory
     [Parameter(Mandatory)]
     [string]$IndexPath,
-    
+
     [Parameter(Mandatory)]
     [string]$Token
   )
-  
+
   # read registry entries
   $registry = [ordered]@{ }
   Get-ChildItem $RegistrationsPath *.catpkg.yml | Sort-Object Name | ForEach-Object {
